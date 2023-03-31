@@ -1,6 +1,6 @@
 # HomeAssistant_APC_SNMP_Auto_Config
 
-*Work in progress*
+*Work in progress* (code currently not avalable)
 
 This is planed to allow for quick configuration of old APC Switched PDUs for Home Assistant. The project is currently in a closed development. hopefully the project can be made into a Home Assistant Add-on,  **still in progress**.
 
