@@ -17,3 +17,7 @@ The problem I was running it to when typing out the code was that with multible 
 
 ## How Does It Work?
 
+I wanted to keep it simple so it currently only outputs the raw code. that code can then be copied and pasted into you're config file in home assistant. make sure that the conde is pased in the switches category as shown above. The program once lanched asks for the **IP of the divice, the Number of outlets/ports, and you're naming**
+*note the code will add a corasponding number to each plug* ex: name = plug   code = Plug1, Plug2.
+![image](https://user-images.githubusercontent.com/54962602/229200087-2847b691-9647-4196-877d-327fa6e8600a.png)
+
